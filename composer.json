@@ -1,6 +1,6 @@
 {
   "name": "maxmage/disable-registration",
-  "description": "Magento 2 module which disable customer registration",
+  "description": "Module for Magento 2 module which provide a possibility to disable customer registration on frontend",
   "require": {
     "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
     "magento/framework": "~100.0.4"
