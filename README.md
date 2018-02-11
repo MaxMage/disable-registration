@@ -29,7 +29,7 @@ Module for Magento 2 which provide a possibility disable customer registration o
 
     **Enabled module automatically disable customer Registration**
 
-    ![Disable/Enable Customer Registration](https://i.imgur.com/T4IsN6T.png "Disable/Enable Customer Registration")
+    ![Disable/Enable Customer Registration](https://i.imgur.com/muooFwm.png "Disable/Enable Customer Registration")
 
 
 Default Magento Customer login page with an ability registration, the result before module activation
